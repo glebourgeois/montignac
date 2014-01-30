@@ -12,4 +12,4 @@ Usage
 -----
 
 * `python montignac.py` to fetch data from the website
-* `python -mhttp.server ; firefox app.html` to view the data
+* `python -mhttp.server ; firefox http://localhost:8000/app.html` to view the data
